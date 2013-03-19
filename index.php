@@ -9,5 +9,6 @@
 echo "[master]";
 /**
  * A
+ * B
  */
 echo "[topic]";
