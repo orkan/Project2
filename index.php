@@ -1,6 +1,6 @@
 <?php
 
-echo "[master]";
+echo "[master] v1.3";
 /**
  * D
  */
