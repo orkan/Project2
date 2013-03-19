@@ -2,6 +2,7 @@
 
 /**
  * Entry point
+ * C3
  */
 echo "Hello from MySubmodule";
 /**
