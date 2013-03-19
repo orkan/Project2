@@ -8,5 +8,6 @@
  */
 echo "[master]";
 /**
+ * A
  */
 echo "[topic]";
