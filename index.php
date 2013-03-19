@@ -1,12 +1,8 @@
 <?php
 
 /**
- * Entry point
- * C3
  */
-echo "Hello from MySubmodule";
+echo "[master]";
 /**
- * C1
- * C2
  */
-echo "iss02";
+echo "[topic]";
