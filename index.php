@@ -1,8 +1,7 @@
 <?php
 
-echo "[master] v1.3";
+echo "[master] v1.5";
 /**
- * D
  */
 echo "[topic]";
 /**
