@@ -4,6 +4,7 @@
  * Entry point
  * [master] branch
  * C3
+ * C3+
  */
 echo "Hello from MySubmodule";
 /**
